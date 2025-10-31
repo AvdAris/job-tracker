@@ -42,7 +42,7 @@ Each user only sees and manages **their own** data.
 
 ### Run App (Docker)
 ```bash
-git clone <repo-url>
+git clone https://github.com/AvdAris/job-tracker.git
 cd job-tracker
 docker compose up --build
 ```
