@@ -1,0 +1,17 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+
+* text=auto
+*.java text
+*.vue text
+*.js text
+*.sql text
+*.css text
+*.json text
+*.yml text
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
