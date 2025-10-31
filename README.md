@@ -141,7 +141,3 @@ To contribute:
 
 ## 📄 License
 MIT License — see [LICENSE](LICENSE) for details.
-
-
-## 🙏 Acknowledgements
-Thanks to the Spring Boot and Vue communities for clean frameworks and great tooling.
