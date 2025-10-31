@@ -25,7 +25,7 @@ Each user only sees and manages **their own** data.
 **Backend (Spring Boot 3)**
 - Spring Security (session-based), Spring Data JPA, Hibernate
 - BCrypt password hashing
-- Located under `/backend`
+- Located under `/app`
 
 **Infrastructure**
 - PostgreSQL (main DB), H2 (testing)
